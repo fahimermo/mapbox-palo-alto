@@ -1,4 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
 #map {
-  width: calc(100vw - 20px);
-  height: calc(100vh - 20px);
+  width: 100vw;
+  height: 100vh;
+}
+
+.mapboxgl-popup {
+  max-width: 400px;
+  font: 12px/20px "Helvetica Neue", Arial, Helvetica, sans-serif;
 }

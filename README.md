@@ -9,3 +9,9 @@
    - Added filter for SFO and changed its label icon
 
    ![airport filter](./image1.png)
+
+2. Implemented search control by creating MapboxGeocoder.
+
+   ![search control](./image2.png)
+
+3. Showed popup on certain POI clicks.
