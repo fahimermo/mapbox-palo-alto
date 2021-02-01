@@ -16,3 +16,5 @@
 
 3. Showed popup on certain POI clicks.
 4. Added routing.
+
+   [Demo](https://mapbox-palo-alto.netlify.app/)
