@@ -15,3 +15,4 @@
    ![search control](./image2.png)
 
 3. Showed popup on certain POI clicks.
+4. Added routing.
