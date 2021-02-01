@@ -1,1 +1,4 @@
-styles.css
+#map {
+  width: calc(100vw - 20px);
+  height: calc(100vh - 20px);
+}
