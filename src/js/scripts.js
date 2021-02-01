@@ -4,3 +4,10 @@ var map = new mapboxgl.Map({
   container: "map",
   style: "mapbox://styles/fahimermo/ckkmgn5vn4qmw17tcrpbxae00",
 });
+
+map.addControl(
+  new MapboxGeocoder({
+    accessToken: mapboxgl.accessToken,
+    mapboxgl: mapboxgl,
+  })
+);
